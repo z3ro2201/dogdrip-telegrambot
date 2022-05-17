@@ -1,0 +1,18 @@
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2ero.dev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "node-schedule": "^2.1.0",
+    "node-telegram-bot-api": "^0.57.0",
+    "telegram-keyboard": "^2.3.0"
+  }
+}
